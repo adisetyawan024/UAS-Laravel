@@ -1,0 +1,26 @@
+Home Page
+    - Cek Tagihan
+
+Admin Page
+
+Dashboard
+    - Total Pelanggan
+    - Pelanggan Aktif
+    - Rata rata Pemakaian
+
+Bayar Tagihan
+
+Master Data
+    - Pelanggan
+    - Tarif
+    - Pemakaian
+    - Laporan
+
+WhatsApp
+    Login
+
+Admin
+ 
+Konfigurasi Tahun Aktif
+Setting Invoice
+Setting nama perusahaan
